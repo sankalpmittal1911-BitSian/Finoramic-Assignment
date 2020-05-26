@@ -8,4 +8,6 @@ https://goo.gl/EPpifR
 ![Image 2](https://github.com/sankalpmittal1911-BitSian/Finoramic-Assignment/blob/master/Section%202:%20Basic%20Dependency%20Installer/Images/Im2.JPG)
 
 ## Convert to exe manually:
+![Image 1](https://github.com/sankalpmittal1911-BitSian/Finoramic-Assignment/blob/master/Section%202:%20Basic%20Dependency%20Installer/Images/Im3.JPG)
+
 
