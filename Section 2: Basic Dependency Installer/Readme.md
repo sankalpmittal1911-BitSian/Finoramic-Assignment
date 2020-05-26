@@ -10,5 +10,6 @@ https://goo.gl/EPpifR
 ## Convert to exe manually:
 #### Enter in Cmd:
 pip install pyinstaller
+
 pyinstaller --onefile <your_script>.py
 
